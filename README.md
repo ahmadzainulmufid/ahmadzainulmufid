@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zainul Mufid</h1>
-<img align="center" alt="full-stack" width="100%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="center" alt="full-stack" width="100%" src="file:///C:/Users/inul/Downloads/360_F_574266944_a6sJx3Hz7FAFV2m9ZGrqPGOsv3qylGt7.jpg">
 <h3 align="justify">I am a D4 student at Politeknik Negeri Jakarta. Currently, I am studying Informatics Engineering. My main interests are software development for websites and applications and user interface (UX) design. I also continue to hone my programming skills. I gained experience during my studies with various programming languages and enhanced their programming, including Java, PHP, SQL, and JavaScript. In addition to strong technical abilities, I have good interpersonal skills, a passion for work to complete work on time, have a curiosity to continue learning and working, and always strive to expand my knowledge and abilities in my chosen field, as well as being able to work together with friends or others.</h3>
 
 - 🤝 I’m looking for help with [Warehouse](https://github.com/Ricomessi/Warehouse)

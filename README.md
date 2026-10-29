@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zainul Mufid</h1>
-<img align="center" alt="full-stack" width="100%" src="https://www.braintechnosys.com/blog/wp-content/uploads/2023/01/full-stack.png">
-<h3 align="justify">I am a D4 student at Politeknik Negeri Jakarta. Currently, I am studying Informatics Engineering. My main interests are software development for websites and applications and user interface (UX) design. I also continue to hone my programming skills. I gained experience during my studies with various programming languages and enhanced their programming, including Java, PHP, SQL, and JavaScript. In addition to strong technical abilities, I have good interpersonal skills, a passion for work to complete work on time, have a curiosity to continue learning and working, and always strive to expand my knowledge and abilities in my chosen field, as well as being able to work together with friends or others.</h3>
 
-- 🤝 I’m looking for help with [Warehouse](https://github.com/Ricomessi/Warehouse)
-
-- 💬 Ask me about **Java, PHP, JavaScript and Python**
-
-- 📫 How to reach me **ahmadzainulmufid12@gmail.com**
-
-- ⚡ Fun fact **Did you know that developers are like wizards? They can turn caffeine into code, transform error messages into solutions, and make bugs disappear with a wave of their keyboard! 🧙‍♂️💻✨**
+<h3 align="justify">I am a Fresh graduate with a Bachelor of Applied Science in Informatics Engineering, specializing in Software Engineering and Web Development. Experienced in designing and implementing scalable, maintainable web applications using Golang, PHP, and JavaScript based on Clean Architecture principles. Proven track record of working effectively in cross-functional teams and managing the end-to-end software development lifecycle, from architectural design to deployment.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

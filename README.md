@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zainul Mufid</h1>
 
-<h3 align="justify">I am a Fresh graduate with a Bachelor of Applied Science in Informatics Engineering, specializing in Software Engineering and Web Development. Experienced in designing and implementing scalable, maintainable web applications using Golang, PHP, and JavaScript based on Clean Architecture principles. Proven track record of working effectively in cross-functional teams and managing the end-to-end software development lifecycle, from architectural design to deployment.</h3>
+<h3 align="justify">Fresh graduate with a Bachelor of Applied Science in Informatics Engineering, specializing in Software Engineering and Web Development. Experienced in designing and implementing scalable, maintainable web applications using Golang, PHP, and JavaScript based on Clean Architecture principles. Proven track record of working effectively in cross-functional teams and managing the end-to-end software development lifecycle, from architectural design to deployment.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
